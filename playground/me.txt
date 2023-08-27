@@ -1,0 +1,6 @@
+{{#user}}
+Name: Tabasum Khan
+Skills: AWS Terraform Jenkins Git Docker
+Email: tabssumkhankhan9977@gmail.com
+{{/user}}
+
